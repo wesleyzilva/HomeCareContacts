@@ -1228,6 +1228,33 @@ Contractors can structure their services through two distinct billing modalities
 
 ---
 
+## 🤖 AI Tools & Development Assistance
+
+The HCC project leverages cutting-edge AI platforms to accelerate content generation, code development, research consolidation, and proposal structuring:
+
+| AI Tool | Purpose & Usage |
+| :--- | :--- |
+| **Google AI Studio** | Content generation, text refinement, website documentation, and marketing copy optimization. |
+| **Perplexity** | Market research, competitive analysis, and information consolidation from diverse sources. |
+| **Gemini** | Code assistance, architectural recommendations, proposal drafting, and technical documentation. |
+
+---
+
+## 💰 Minimum Service Values & Pricing Tiers
+
+To maintain ecosystem health and prevent predatory undercutting, HCC enforces standardized pricing guardrails:
+
+### A. Hourly Services (Fractional Billing)
+* **Minimum Billing Block:** $30$ minutes (even if work completes in $10$ minutes).
+* **Suggested Floor Rate:** $R\$ 35.00$ – $R\$ 50.00$ per $30$-minute block.
+* **Rationale:** Accounts for contractor transportation costs (fuel, commute), payment processing fees, and ensures economic viability.
+
+### B. Project-Based Services ("Empreita")
+* **Minimum Project Fee:** $R\$ 60.00$ per engagement.
+* **Custom Pricing:** Contractors propose binding quotes in-app chat; homeowners authorize via escrow before work starts.
+
+---
+
 ## 💵 Monetization Architecture
 
 HCC operates a hybrid transactional, fintech-split, and subscription-based revenue model:
@@ -1257,7 +1284,131 @@ HCC operates a hybrid transactional, fintech-split, and subscription-based reven
 
 ---
 
-## 🛡️ Service Warranty & Dispute Resolution Protocol
+## 🎯 Phased Monetization Strategy (Google-Style Ecosystem Lock-In)
+
+To replicate the successful Google approach (free, high-value tools → market dominance → sustainable monetization), HCC's rollout must follow three distinct lifecycle phases:
+
+```text
+┌──────────────────────────────────────────────────────────────────────────┐
+│                    ECOSYSTEM MONETIZATION ROADMAP                        │
+├──────────────────────────────────────────────────────────────────────────┤
+│ PHASE 1: TRACTION (100% Free-to-Use)                                     │
+│ • Commission Rate: 0% (Zero platform take-rate during MVP)               │
+│ • Contractor Incentives: Free digital catalog, unlimited portfolio       │
+│   uploads, escrow-backed payments, gamification engine.                  │
+│ • Goal: Rapid adoption, network effects, volume accumulation.            │
+│ • Duration: 6–12 months or until platform sustains 1,000+ daily jobs.    │
+├──────────────────────────────────────────────────────────────────────────┤
+│ PHASE 2: HABITUATION & DEPENDENCY                                        │
+│ • Contractors develop reliance on HCC as primary income channel.         │
+│ • Their reputation (Ratings, Badges, Diamond Tier) becomes "locked"      │
+│   within the platform—difficult to replicate elsewhere.                  │
+│ • Payment reliability & 90-day warranty become irreplaceable trust       │
+│   infrastructure.                                                        │
+│ • Goal: Sticky user base with high switching costs.                      │
+│ • Duration: Ongoing—parallel with Phase 3.                              │
+├──────────────────────────────────────────────────────────────────────────┤
+│ PHASE 3: SUSTAINABLE MONETIZATION (Suave Take-Rate Introduction)        │
+│ • Introduce tiered commission structure based on contractor tier:        │
+│   - Bronze/Silver: 15% take-rate                                        │
+│   - Gold: 12% take-rate                                                 │
+│   - Platinum/Diamond: 10% take-rate (reward loyalty)                    │
+│ • Launch HCC Pro (optional SaaS) @ R$ 99–299/month for exclusive         │
+│   features (priority dispatch, CRM tools, route optimization).           │
+│ • Capture Fintech MDR spread on installment financing (2x–10x plans).    │
+│ • Offer extended warranty add-ons for premium coverage.                  │
+│ • Goal: Diversified, sustainable revenue while rewarding early adopters.│
+└──────────────────────────────────────────────────────────────────────────┘
+```
+
+### Transition Strategy: Protecting Pioneer Contractors
+
+**Vested Contractor Lock-In:**
+- Contractors reaching $Gold$ tier or completing $50+$ jobs in Phase $1$ receive **lifetime commission reduction** ($5\%$ floor) or permanent fee exemption—turning them into platform advocates.
+
+**"Fintech First" Charging:**
+- Before introducing comissioning, monetize only through **credit card installment MDR** (Merchant Discount Rate) and payment gateway spreads.
+- Customers see financing costs, not contractor fees.
+- Contractors receive full payment without intermediary deductions.
+
+**Announcement & Transparency:**
+- Public roadmap signaling commission introduction $6$ months in advance.
+- Incentivize adoption through limited-time Diamond tier fast-tracks.
+
+---
+
+## 🏆 Contractor Value Proposition Summary
+
+### Why an Independent Service Professional Chooses HCC
+
+1. **Zero Upfront Lead Costs**
+   - Unlike GetNinjas (coin-based lead purchasing), HCC charges $0$ upfront.
+   - Fees deducted only upon successful, completed transactions.
+
+2. **Guaranteed Payment (Escrow-Backed)**
+   - No more client defaults or unpaid invoices.
+   - Funds pre-authorized at match time; released upon job sign-off.
+
+3. **Digital Professionalism at Scale**
+   - Build a **Before & After portfolio** that doubles as marketing collateral.
+   - Personal branding for external referrals (WhatsApp links, portfolios).
+
+4. **Bidirectional Safety & Reputation**
+   - Rate clients (addressing, instruction clarity, respect).
+   - Protection against abusive or non-paying households.
+
+5. **Revenue Predictability & Growth**
+   - Gamified tier progression unlocks:
+     - Lower commission rates (down to $10\%$).
+     - **3-minute early dispatch priority** to lucrative jobs.
+     - Visibility badges and preferred contractor status.
+
+6. **Flexible Offering Modalities**
+   - Hourly work (**R\$ 35–50 per 30-min block**).
+   - Project-based pricing (**fixed "Empreita" quotes**).
+   - Installment financing without maquininha (checkout handled by platform).
+
+7. **Compliance & Business Infrastructure**
+   - Automated invoicing, transaction records (tax documentation).
+   - Payment reconciliation and cash flow tracking.
+   - Optional SaaS tools (route optimization, CRM analytics).
+
+---
+
+## 🏠 Homeowner Value Proposition Summary
+
+### Why a Property Owner / Renter Chooses HCC
+
+1. **Safety Through Transparency**
+   - View verified **Before & After work samples** from each contractor.
+   - Read blind-reviewed feedback covering cleanliness, punctuality, respect.
+   - Confirm contractor credentials and Diamond-tier status upfront.
+
+2. **Financial Protection**
+   - Funds held in **escrow**—released only upon homeowner confirmation.
+   - Zero risk of advance payment loss or abandonment.
+
+3. **Price Clarity & Control**
+   - Standardized $30$-minute billing blocks.
+   - Binding project quotes locked before work begins.
+
+4. **Automatic Recourse**
+   - **90-day warranty coverage** (labor & defects) underwritten by platform.
+   - VLM-assisted claim verification for rapid dispute resolution.
+
+5. **Budget Flexibility**
+   - **Installment financing up to 10 months**—no lump-sum burden.
+   - MasterCard/Visa compatibility; competitive interest rates.
+
+6. **Convenience & Speed**
+   - Photo/video intake → AI diagnosis → contractor match (**minutes**, not days).
+   - WhatsApp notifications for real-time updates.
+
+7. **Bidirectional Accountability**
+   - Rate contractor performance; rate homeowner environment.
+   - Chronic non-payers or abusive clients are flagged or banned.
+
+---
 
 To maintain absolute system integrity without exposing workers to fraudulent claims:
 
